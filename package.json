@@ -1,0 +1,20 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "any-db": "^2.2.0",
+    "any-db-sqlite3": "^2.1.4",
+    "body-parser": "^1.18.2",
+    "colors": "^1.1.2",
+    "consolidate": "^0.15.0",
+    "express": "^4.16.2",
+    "hogan": "^1.0.2"
+  }
+}
